@@ -1,0 +1,17 @@
+<img src="images/jamie.jpg" alt="Jamie" style="width:800px;height:600px;">
+
+
+Deleted Code from line 9
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+    
+    
+
+    
+<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js
+
+
+
+  /* This image is hotlinked from pinklizard web WordPress media library -------------------------------------------------------- */
+  background: url("http://www.pinklizardweb.com/wp-content/uploads/2018/12/pinklizardbanner1500x1000.jpg") no-repeat center center;
+  /*-------------------------------------------------------------------------------------------------------------------------------*/
